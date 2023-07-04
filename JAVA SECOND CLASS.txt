@@ -1,0 +1,8 @@
+public class HelloWorld{
+    public static void main(String[] args){
+        int firstNumber = 10;
+        int secondNumber = 5;
+        int total = firstNumber + secondNumber;
+        System.out.println("The total number is: "+total);
+    }
+}
